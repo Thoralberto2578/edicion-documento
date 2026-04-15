@@ -1,0 +1,6 @@
+{
+  "name": "DocuEdit OCR",
+  "description": "Reconoce y edita texto de documentos JPG conservando el formato original usando Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
